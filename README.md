@@ -47,4 +47,4 @@ check terminal in which you run Jetty to confirm UserDetails has been taken from
 
 
 
-[Fast and stateless API authentication with Spring Security]:http://www.resilientdatasystems.co.uk/spring/fast-and-stateless-api-authentication-with-spring-security
+[Fast and stateless API authentication with Spring Security]:http://www.resilientdatasystems.co.uk/spring/fast-stateless-api-authentication-spring-security/
